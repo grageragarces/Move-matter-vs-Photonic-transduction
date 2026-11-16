@@ -1,0 +1,7 @@
+# everything related to the manuscript
+paper/
+
+# local clutter
+.DS_Store
+__pycache__/
+.pytest_cache/
